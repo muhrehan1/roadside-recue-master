@@ -1,5 +1,5 @@
 <template>
-    <section class="secBanner" style="background-image: url('../../public/images/bg_banner.jpg');">
+    <section class="secBanner" style="background-image: url('/images/bg_banner.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-7">
