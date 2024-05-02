@@ -1,5 +1,5 @@
 <template>
-    <section class="secService" style="background-image: url('../../public/images/bg_serv.jpg');">
+    <section class="secService" style="background-image: url('/images/bg_serv.jpg');">
         <div class="container">
             <div class="txt text-center">
                 <h2>Our services</h2>
